@@ -1,0 +1,28 @@
+{
+  "name": "devpilot-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "devpilot": "src/index.js"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijitkayal10/devpilot-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/abhijitkayal10/devpilot-cli/issues"
+  },
+  "homepage": "https://github.com/abhijitkayal10/devpilot-cli#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
