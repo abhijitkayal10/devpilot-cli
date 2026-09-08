@@ -1,14 +1,14 @@
-
-   node_modules/
+# Dependencies
+node_modules/
    
-
-   .env
+# Environment variables
+.env
    
-
-   .DS_Store
-   Thumbs.db
-
-
-   *.log
-   npm-debug.log*
+# OS files
+.DS_Store
+Thumbs.db
+   
+# Logs
+*.log
+npm-debug.log*
    
